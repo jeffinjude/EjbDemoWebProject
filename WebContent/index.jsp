@@ -8,6 +8,7 @@
 </head>
 <body>
 	<a href="SampleServlet">Sample Ejb Servlet</a><br>
-	<a href="/EjbDemoWebProject/UserDetails.jsp">Sample Ejb JPA Servlet</a><br>
+	<a href="/EjbDemoWebProject/UserDetails.jsp">Sample Ejb JPA Servlet (Stateless and Message driven beans)</a><br>
+	<a href="StatefullServlet">Sample Statefull bean</a><br>
 </body>
 </html>
